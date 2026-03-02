@@ -1,6 +1,5 @@
 {
-  "devices":
-  [
+  "devices": [
     {
       "id": "6a44bdb86ecb35528faee69ba80fb78d4420fee4b3a2368ab0f9343e33cf25f8",
       "label": "IGP",
@@ -14,6 +13,7 @@
       "system": "Android",
       "date": "03/03/2026",
       "notes": ""
-    },
+    }
   ]
 }
+// No poner la coma al final del ultimo elemento de la lista
