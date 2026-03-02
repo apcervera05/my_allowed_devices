@@ -20,20 +20,6 @@
       "system": "Android",
       "date": "14/12/2025",
       "notes": ""
-    },
-    {
-      "id": "b66c13109bae70ca2426bdc3de4afd72b354a73492f74aea97512bb313913560",
-      "label": "IGP",
-      "system": "Android",
-      "date": "02/03/2026",
-      "notes": ""
-    },
-    {
-      "id": "bb2f085b639cfe560f2edbde67399abbac714a49e8ffea2895a97a034a562760",
-      "label": "EMULATOR TEST - CHECK",
-      "system": "Android",
-      "date": "01/03/2026",
-      "notes": ""
-    },
+    }
   ]
 }
