@@ -6,14 +6,14 @@
       "system": "Android",
       "date": "10/11/2025",
       "notes": ""
-    },     
+    },
     {
       "id": "ab6d3dbfb56bae10004a099139074250ce318098ca89cb0f2bde64e0982c13d7",
       "label": "APC IPH11",
       "system": "iOS",
       "date": "10/11/2025",
       "notes": ""
-    },   
+    },
     {
       "id": "427d094289f7adc719424c7131b43a1ee2d9dd1919d2b66289a879f12c056b0c",
       "label": "IGP Xia",
@@ -35,6 +35,5 @@
       "date": "01/03/2026",
       "notes": ""
     },
-
   ]
 }
