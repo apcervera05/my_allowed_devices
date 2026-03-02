@@ -1,0 +1,19 @@
+{
+  "devices": 
+  [    
+    {
+      "id": "bb2f085b639cfe560f2edbde67399abbac714a49e8ffea2895a97a034a562760",
+      "label": "EMULATOR TEST - CHECK",
+      "system": "Android",
+      "date": "01/03/2026",
+      "notes": ""
+    },
+    {
+      "id": "634f1261a1b3877a644c987fba1f49e352296622f16a807476a7143077f70d7c",
+      "label": "IGP Xia Check",
+      "system": "Android",
+      "date": "02/03/2026",
+      "notes": ""
+   }
+  ]
+}
