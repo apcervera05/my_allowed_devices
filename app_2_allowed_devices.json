@@ -1,6 +1,13 @@
 {
   "devices":
-  [  
+  [
+    {
+      "id": "6a44bdb86ecb35528faee69ba80fb78d4420fee4b3a2368ab0f9343e33cf25f8",
+      "label": "IGP",
+      "system": "Android",
+      "date": "03/03/2026",
+      "notes": ""
+    },
     {
       "id": "bb2f085b639cfe560f2edbde67399abbac714a49e8ffea2895a97a034a562760",
       "label": "EMULATOR TEST CHECK",
@@ -8,12 +15,5 @@
       "date": "03/03/2026",
       "notes": ""
     },
-    {
-      "id": "6a44bdb86ecb35528faee69ba80fb78d4420fee4b3a2368ab0f9343e33cf25f8",
-      "label": "IGP",
-      "system": "Android",
-      "date": "03/03/2026",
-      "notes": ""
-    }
   ]
 }
