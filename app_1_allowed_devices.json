@@ -1,10 +1,10 @@
 {
   "devices": [
-    {
-      "id": "6d51f637e92521a084623476524eedd8753c5ff8f96229ae5794db37f2fc57e4",
-      "label": "EMULATOR TEST",
+   {
+      "id": "c4ebe05f8a773484ec9618395e1b76795b5ec10ad175465cdaa371586c7078f9",
+      "label": "EMULATOR",
       "system": "Android",
-      "date": "10/11/2025",
+      "date": "22/06/2026",
       "notes": ""
     },
     {
